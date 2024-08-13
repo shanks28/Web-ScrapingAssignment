@@ -1,7 +1,6 @@
 # Web-ScrapingAssignment
 ## This is an example of deep webscraping and automation with selenium
-
-#git clone https://github.com/shanks28/Web-ScrapingAssignment
+```git clone https://github.com/shanks28/Web-ScrapingAssignment```
 ## move into the project folder
 ```cd Web-ScrapingAssignment/Assignment```
 ## Install requirements 
